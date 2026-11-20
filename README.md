@@ -32,3 +32,6 @@ The VERY tiny USB C microcontroller dev board themed after the Sagittarius Dwarf
 	    2. **`A3`**: GPIO pin **`PA3`** (Pin 2).
 	    3. **`+`**: **`+5V`** power.
 	    4. **`G`**: **`GND`** ground.
+
+---
+Dedicated to Black holes <3
