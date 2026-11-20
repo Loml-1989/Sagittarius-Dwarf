@@ -1,0 +1,13 @@
+Designator,Component Name,Quantity,Description,Vendor Link,Est Price (USD)
+U1,ATtiny1616 8-bit AVR Microcontroller,1,"16KB Flash, 2KB SRAM, 128B EEPROM, 20MHz AVR MCU",https://robu.in/product/attiny1616-mfr-microchip-8-bit-mcu-avr-attiny-family-attiny16-series-microcontrollers-avr-20-mhz-16-kb-20-pins-vqfn/,$3.00
+D1,Addressable Smart RGB LED,1,Intelligent digital addressable RGB LED (WS2812B protocol compatible),https://robu.in/product/sme-ws2812b-2020-addressable-rgb-pixel-led-worldsemi/,$0.10
+J1,USB Type-C 16-Pin Receptacle,1,USB 2.0 Type-C 16P Female Connector with GND shield tabs,https://robu.in/product/type-c-31-m-16-hroparts-1-6p-female-type-c-smd-usb/,$1.00
+D2,Schottky Barrier Diode 20V 0.5A,1,Schottky barrier diode for VBUS reverse polarity protection,https://robu.in/product/b0520ws-mdd-20v-independent-390mv500ma-500ma-sod-323-schottky-diodes-rohs/,$0.15
+R1,SMD Resistor 5.1k 1% 0.1W,2,CC1 USB-C 5.1k pulldown configuration resistor,https://robu.in/product/rc0603fr-0710kl-yageo-res-thick-film-0603-10k-ohm-1-0-1w1-10w-%C2%B1100ppm-c-pad-smd-t-r/,$0.10
+C1,SMD Ceramic Capacitor 100nF (0.1uF) 50V X7R,1,100nF high-frequency decoupling capacitor for VBUS,https://robu.in/product/0-1uf-capacitor-smdc-0603/,$0.10
+C2,SMD Ceramic Capacitor 22uF 10V/6.3V X5R,1,22uF bulk decoupling capacitor for power rail stability,https://robu.in/product/cl31a226mqhnnne-samsung-cap-ceramic-22uf-6-3v-x5r-20-pad-smd-1206-85c-t-r/,$0.10
+PCB,Custom PCB (5 pcs),5,PCB,https://www.lioncircuits.com/,$11.00
+Pan,,1,Pan for sand for reflowing solder. (diy hot plate),https://blinkit.com/prn/lazywindow-tadka-pan-with-long-steel-handle-iron/prid/669676,$3.00
+Sand,,1,Sand for diy hot plate,https://www.amazon.in/Premium-Ultra-Fine-River-Sand/dp/B0GJ5MVPXJ?source=ps-sl-shoppingads-lpcontext&psc=1&smid=AYTJHVR9E65IS,$2.00
+Soldering Paste,,1,Soldering paste for soldering,https://makerbazar.in/products/mechanic-smd-solder-paste-flux-cream-sn63-pb67-medium-temperature-soldering-wax?variant=48251101282544,$2.00
+TOTAL,,,,,$25.55
